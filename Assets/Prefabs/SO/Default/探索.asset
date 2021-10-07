@@ -9,11 +9,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4dc108c95d49871438f3fe554801a10a, type: 3}
-  m_Name: "\u8CA1\u5B9D\u3092\u5F97\u308B"
+  m_Script: {fileID: 11500000, guid: 51ace6a2864e4dc4bb2f521db38b6bdb, type: 3}
+  m_Name: "\u63A2\u7D22"
   m_EditorClassIdentifier: 
-  Name: "\u8CA1\u5B9D\u3092\u5F97\u308B"
-  Volume: 6
-  Skill: 1
-  Boots: 0
+  Name: "\u63A2\u7D22"
+  Volume: 15
+  Cost: 3
+  Buddy: 0
+  Skill: 2
+  Boots: 1
+  Sword: 0
   Clank: 0
+  Point: 0

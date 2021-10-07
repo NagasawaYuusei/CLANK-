@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e19bfb9e570f34caae7ba1b8990bce, type: 3}
+  m_Name: "\u30A6\u30A9\u30C3\u30C1\u30E3\u30FC"
+  m_EditorClassIdentifier: 
+  Name: "\u30A6\u30A9\u30C3\u30C1\u30E3\u30FC"
+  Volume: 3
+  NecessarySword: 3
+  Dragon: 0
+  Deep: 0
+  Ice: 0
+  GetSkill: 0
+  GetGold: 3
+  GetCard: 0
+  GetBoots: 0
+  Others: "\u767B\u5834:\u3059\u3079\u3066\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u30AF\u30E9\u30F3\u30AF\u3092+1\u3059\u308B\u3002\u3000\u5012\u3055\u308C\u305F\u3068\u304D\u3001\u3042\u306A\u305F\u4EE5\u5916\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u30AF\u30E9\u30F3\u30AF\u3092+1\u3059\u308B"

@@ -9,11 +9,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4dc108c95d49871438f3fe554801a10a, type: 3}
-  m_Name: "\u7269\u97F3\u3092\u7ACB\u3066\u308B"
+  m_Script: {fileID: 11500000, guid: a2e19bfb9e570f34caae7ba1b8990bce, type: 3}
+  m_Name: "\u6C37\u6676\u306E\u30B4\u30FC\u30EC\u30E0"
   m_EditorClassIdentifier: 
-  Name: "\u7269\u97F3\u3092\u7ACB\u3066\u308B"
+  Name: "\u6C37\u6676\u306E\u30B4\u30FC\u30EC\u30E0"
   Volume: 2
-  Skill: 0
-  Boots: 0
-  Clank: 1
+  NecessarySword: 3
+  Dragon: 0
+  Deep: 0
+  Ice: 1
+  GetSkill: 3
+  GetGold: 0
+  GetCard: 0
+  GetBoots: 0
+  Others: 

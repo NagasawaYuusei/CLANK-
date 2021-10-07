@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dc108c95d49871438f3fe554801a10a, type: 3}
   m_Name: "\u8EAB\u3092\u6F5C\u3081\u308B"
   m_EditorClassIdentifier: 
-  Name: 
-  Volume: 0
-  Skill: 0
-  Boots: 0
+  Name: "\u8EAB\u3092\u6F5C\u3081\u308B"
+  Volume: 1
+  Skill: 1
+  Boots: 1
   Clank: 0
