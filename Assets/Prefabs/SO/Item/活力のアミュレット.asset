@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5ccdccd0e03c2f498ebe571afa296a3, type: 3}
+  m_Name: "\u6D3B\u529B\u306E\u30A2\u30DF\u30E5\u30EC\u30C3\u30C8"
+  m_EditorClassIdentifier: 
+  Name: "\u6D3B\u529B\u306E\u30A2\u30DF\u30E5\u30EC\u30C3\u30C8"
+  Volume: 1
+  Cost: 7
+  Buddy: 0
+  Dragon: 0
+  Jewelry: 0
+  Skill: 4
+  Boots: 0
+  Sword: 0
+  Clank: 0
+  Point: 3
+  Life: 1
+  GetSword: 0
+  GetBoots: 0
+  Others: 
