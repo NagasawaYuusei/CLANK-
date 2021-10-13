@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b81fe6c6d13c7f9459dcc165b8e01000, type: 3}
   m_Name: "\u5E0C\u671B\u306E\u58C1"
   m_EditorClassIdentifier: 
-  Name: 
-  Volume: 0
-  Cost: 0
+  Name: "\u5E0C\u671B\u306E\u58C1"
+  Volume: 1
+  Cost: 6
   Dragon: 0
   Fanfale: 0
   Dangerous: 0
-  Others: 
+  Others: "\u4F7F\u7528:\u6B21\u304B\u30891\u3064\u305A\u3064\uFF12\u3064\u3092\u9078\u3076\u3000\u30FB\u3042\u306A\u305F\u306E\u30D7\u30EC\u30A4\u30A8\u30EA\u30A2\u304B\u6368\u3066\u5C71\u306B\u3042\u308B\u30AB\u30FC\u30C9\u30921\u679A\u9078\u3073\u30B2\u30FC\u30E0\u304B\u3089\u9664\u5916\u3000\u30FB2Sword\u7372\u5F97\u3000\u30FB2Boots\u7372\u5F97\u3000\u30FB1Life\u7372\u5F97"
